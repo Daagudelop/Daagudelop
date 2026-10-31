@@ -33,6 +33,16 @@ I'm one of the organizers of **Un-Games**, the student game-dev group at my univ
 
 </div>
 
+## 🧭 Experience highlights
+
+| When | What |
+| :--- | :--- |
+| **Jul 2025 – today** | **Ethos Interstice**: institutional project with UNAD (Colombia); an immersive VR experience using APIs in Unity. Entry in **The Rookies 2026** → [view entry](https://www.therookies.co/entries/52800) |
+| **Apr – Jul 2025** | **Numeria VR**: programmer / VFX artist / game designer on an institutional project creating immersive VR experiences for the Numeria initiative → [play on itch.io](https://daagudelop.itch.io/numeria-vr?secret=ykiu8wZjmrN6CV9T96wRcN5PjAk) |
+| **Aug 2022 – today** | **Personal projects & game jams** on [itch.io](https://daagudelop.itch.io/), and organizer of the **Un-Games** student group at Universidad Nacional de Colombia |
+
+---
+
 ---
 
 ## 🎯 What I work on
@@ -148,15 +158,7 @@ Hands-on **FreeRTOS** practice on ESP32: tasks and priorities, binary semaphores
 
 ---
 
-## 🧭 Experience highlights
 
-| When | What |
-| :--- | :--- |
-| **Jul 2025 – today** | **Ethos Interstice**: institutional project with UNAD (Colombia); an immersive VR experience using APIs in Unity. Entry in **The Rookies 2026** → [view entry](https://www.therookies.co/entries/52800) |
-| **Apr – Jul 2025** | **Numeria VR**: programmer / VFX artist / game designer on an institutional project creating immersive VR experiences for the Numeria initiative → [play on itch.io](https://daagudelop.itch.io/numeria-vr) |
-| **Aug 2022 – today** | **Personal projects & game jams** on [itch.io](https://daagudelop.itch.io/), and organizer of the **Un-Games** student group at Universidad Nacional de Colombia |
-
----
 
 ## 📫 Let's connect
 
